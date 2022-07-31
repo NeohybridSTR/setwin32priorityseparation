@@ -36,7 +36,7 @@ cls
 echo Select the priority boost type.
 echo.
 echo 1- High Foreground Boost(Highest FPS,Highest Latency)
-echo 2- Medium Foreground Boost(More Balanced compared to the other choices)
+echo 2- Medium Foreground Boost(Balanced)
 echo 3- Fixed and Equal(Lowest FPS,Lowest Latency)
 echo.
 set /p cho=">"
